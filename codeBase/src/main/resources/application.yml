@@ -1,0 +1,16 @@
+server:
+  port: 8095
+  error:
+    whitelabel:
+      enabled: false
+
+spring:
+  application:
+    name: copilot-qr-code-service
+    version: ${appVersion}
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+
+
