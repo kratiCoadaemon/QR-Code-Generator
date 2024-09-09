@@ -1,0 +1,14 @@
+1. Add an html template to take inputs from controller
+2. Write code to add custom Exception 
+3.Write code to exclude spring secutity login 
+4. /doc - to generate doc
+5.  add tests
+6. add a method that returns the format list in which QR can be generated
+7.Create a pojo class fileDownLoadResponse
+8.make filePath configurable
+9. Xreate test class for QRCode service
+10 create enum class for filetype
+11. add a feild type name in enum
+12. /doc FileType
+11. Generate an html class to provide values for generateQRCode()
+
